@@ -24,7 +24,7 @@ Add(Button,8191967,63,168)
  Data=Integer(11222)
  link(onClick,7472143:doEvent1,[])
 }
-Add(Label,1625394,245,385)
+Add(Label,1625394,252,385)
 {
  Left=80
  Top=10
