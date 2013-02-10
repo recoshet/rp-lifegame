@@ -37,7 +37,7 @@ Add(FileTools,10263019,469,168)
 }
 Add(StrCat,5869341,476,112)
 {
- Str1="gta3.img/"
+ Str1="samp.img/"
  link(Str2,4481852:Var1,[(489,100)(279,100)])
 }
 Add(GetDataEx,4481852,273,144)
